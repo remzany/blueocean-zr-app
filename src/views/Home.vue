@@ -1,0 +1,11 @@
+<template>
+  <div>
+    <h1>This is example page.</h1>
+
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet turpis ullamcorper, vulputate orci vel, condimentum nisl. In magna neque, finibus consectetur dui eu, gravida lacinia tortor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In nec efficitur risus. Praesent condimentum nibh quis tortor convallis, eu tincidunt dolor ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam suscipit finibus iaculis.
+      Praesent purus nibh, porttitor eu vestibulum eget, convallis condimentum odio. Nam aliquet erat magna, at cursus neque blandit id. Nulla mattis elementum turpis et volutpat. Integer gravida neque ornare neque egestas sagittis. Morbi faucibus et libero et tristique. Vestibulum nec imperdiet libero. Pellentesque dictum luctus nisi quis tristique. Ut vel nibh nibh. Duis id maximus magna. Suspendisse potenti. Donec a mattis dolor. Suspendisse lorem odio, suscipit sed massa ac, pretium consectetur urna. Nullam rutrum, mi vel eleifend porttitor, eros sem mollis sem, sit amet lobortis augue felis vitae est.
+      Duis at congue ante. Fusce molestie hendrerit est eleifend imperdiet. Suspendisse condimentum turpis eros, eu posuere velit tempor sit amet. Donec sed ex lobortis magna elementum convallis. Praesent iaculis efficitur massa ac bibendum. Vestibulum eros odio, tempor at vestibulum ac, accumsan a nibh. Aenean tincidunt eget felis ut sollicitudin. Praesent fermentum ex venenatis, sodales mauris vitae, lacinia ligula. Cras sed bibendum lorem, id interdum purus. Sed volutpat porttitor tellus, non pulvinar mi convallis sed. Fusce felis eros, condimentum et viverra quis, aliquam non sem. Etiam sem erat, hendrerit nec sapien eget, suscipit efficitur erat. Vestibulum quis pellentesque erat, ut pellentesque lectus. Etiam quis pretium purus. Sed malesuada ut turpis et iaculis. Donec lobortis tristique nulla, in mattis elit venenatis vitae.
+    </p>
+  </div>
+</template>
